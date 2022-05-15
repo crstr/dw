@@ -1,4 +1,4 @@
 # dw
 customized dokuwiki wrapper script
 
-test
+test2
